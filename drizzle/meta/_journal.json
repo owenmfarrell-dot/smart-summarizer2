@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1775003988974,
+      "tag": "0000_colossal_zzzax",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1775004126447,
+      "tag": "0001_overrated_vector",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1775005223481,
+      "tag": "0002_lucky_layla_miller",
+      "breakpoints": true
+    }
+  ]
+}
